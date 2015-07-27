@@ -171,7 +171,7 @@ Otherwise, you B<must> provide C<solr()> with the name of the server:
 
 =head1 AUTHORS AND CONTRIBUTORS
 
-This module is based on L<Dancer::Plugin::DBIC>, as at 22 October 2014.
+This module is based on L<Dancer::Plugin::DBIC>, as at 22 October 2014 and adapted for and adapted for L<Apache::Solr> by Daniel Perrett.
 
 The following had authored L<Dancer::Plugin::DBIC> at this time:
 
@@ -179,7 +179,7 @@ The following had authored L<Dancer::Plugin::DBIC> at this time:
 
 =item *
 
-- Al Newkirk <awncorp@cpan.org>
+Al Newkirk <awncorp@cpan.org>
 
 =item *
 

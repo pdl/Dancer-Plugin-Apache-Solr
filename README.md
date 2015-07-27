@@ -113,11 +113,11 @@ Otherwise, you **must** provide `solr()` with the name of the server:
 
 # AUTHORS AND CONTRIBUTORS
 
-This module is based on [Dancer::Plugin::DBIC](https://metacpan.org/pod/Dancer::Plugin::DBIC), as at 22 October 2014.
+This module is based on [Dancer::Plugin::DBIC](https://metacpan.org/pod/Dancer::Plugin::DBIC), as at 22 October 2014 and adapted for and adapted for [Apache::Solr](https://metacpan.org/pod/Apache::Solr) by Daniel Perrett.
 
 The following had authored [Dancer::Plugin::DBIC](https://metacpan.org/pod/Dancer::Plugin::DBIC) at this time:
 
-- - Al Newkirk <awncorp@cpan.org>
+- Al Newkirk <awncorp@cpan.org>
 - Naveed Massjouni <naveed@vt.edu>
 
 The following had made contributions to [Dancer::Plugin::DBIC](https://metacpan.org/pod/Dancer::Plugin::DBIC) at this time:
